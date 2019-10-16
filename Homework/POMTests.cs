@@ -1,4 +1,5 @@
 ﻿using Homework.Pages;
+using Homework.Tests;
 using NUnit.Framework;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
@@ -11,18 +12,15 @@ using System.Text;
 namespace Homework
 {
     [TestFixture]
-    public class POMTests
+    public class POMTests : BaseTest
     {
         private LoginPage _loginPage;
         private RegistrationPage _regPage;
         private RegistrationUser _user;
-        private ChromeDriver _driver;
 
         [SetUp]
         public void CalssInit()
         {
-            _driver = new ChromeDriver(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));
-            _driver.Manage().Window.Maximize();
             _driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
 
             _loginPage = new LoginPage(_driver);
@@ -121,10 +119,5 @@ namespace Homework
            // _regPage.AssertErrorMessage("The Zip/Postal code you've entered is invalid. It must follow this format: 00000");
         }
 
-        [TearDown]
-        public void TearDown()
-        {
-            _driver.Quit();
-        }
     }
 }
