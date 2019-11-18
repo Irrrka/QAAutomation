@@ -1,0 +1,15 @@
+C:\Users\IR\Desktop\QAExam\Exam\Homework\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\IR\Desktop\QAExam\Exam\Homework\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\IR\Desktop\QAExam\Exam\Homework\bin\Debug\netcoreapp2.2\nunit.engine.dll
+C:\Users\IR\Desktop\QAExam\Exam\Homework\bin\Debug\netcoreapp2.2\nunit.engine.api.dll
+C:\Users\IR\Desktop\QAExam\Exam\Homework\bin\Debug\netcoreapp2.2\Homework.deps.json
+C:\Users\IR\Desktop\QAExam\Exam\Homework\bin\Debug\netcoreapp2.2\Homework.runtimeconfig.json
+C:\Users\IR\Desktop\QAExam\Exam\Homework\bin\Debug\netcoreapp2.2\Homework.runtimeconfig.dev.json
+C:\Users\IR\Desktop\QAExam\Exam\Homework\bin\Debug\netcoreapp2.2\Homework.dll
+C:\Users\IR\Desktop\QAExam\Exam\Homework\bin\Debug\netcoreapp2.2\Homework.pdb
+C:\Users\IR\Desktop\QAExam\Exam\Homework\obj\Debug\netcoreapp2.2\Homework.csprojAssemblyReference.cache
+C:\Users\IR\Desktop\QAExam\Exam\Homework\obj\Debug\netcoreapp2.2\Homework.csproj.CoreCompileInputs.cache
+C:\Users\IR\Desktop\QAExam\Exam\Homework\obj\Debug\netcoreapp2.2\Homework.AssemblyInfoInputs.cache
+C:\Users\IR\Desktop\QAExam\Exam\Homework\obj\Debug\netcoreapp2.2\Homework.AssemblyInfo.cs
+C:\Users\IR\Desktop\QAExam\Exam\Homework\obj\Debug\netcoreapp2.2\Homework.dll
+C:\Users\IR\Desktop\QAExam\Exam\Homework\obj\Debug\netcoreapp2.2\Homework.pdb
